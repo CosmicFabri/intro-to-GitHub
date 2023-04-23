@@ -1,5 +1,6 @@
 # A first-level heading
 ## A second-level heading
+# Another first-level heading
 ### A third-level heading
 #### A fourth-level heading
 ##### A fifth-level heading
